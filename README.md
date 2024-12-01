@@ -14,8 +14,10 @@
 - api/products
 - add new product
 - viewing the list of products
-- - removing a product
--
+- removing the product
+- product editing
+- updating the product
+- changing the theme
 
 ### Usage
 
